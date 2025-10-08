@@ -18,21 +18,21 @@ Guide
 
 1. Connect Wallet
 
-Use AppKit + Wagmi or WalletConnect v2
+   Use AppKit + Wagmi or WalletConnect v2
 
 2. Claim/Mint Avatar NFT
 
-3. Select your NFT avatar
+   Select your NFT avatar
 
-4. Confirm transaction on-chain
+   Confirm transaction on-chain
 
 5. View Leaderboard
 
-6. Top holders & perks displayed
+   Top holders & perks displayed
 
 7. Upgrade/Trade Avatars
 
-8. Interact with marketplace or upgrade NFTs
+   Interact with marketplace or upgrade     NFTs
 
 ---
 
