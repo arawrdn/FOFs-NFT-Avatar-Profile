@@ -14,6 +14,28 @@ Track ownership, perks, and leaderboard standings in an interactive dashboard.
 
 ---
 
+Guide
+
+1. Connect Wallet
+
+Use AppKit + Wagmi or WalletConnect v2
+
+2. Claim/Mint Avatar NFT
+
+3. Select your NFT avatar
+
+4. Confirm transaction on-chain
+
+5. View Leaderboard
+
+6. Top holders & perks displayed
+
+7. Upgrade/Trade Avatars
+
+8. Interact with marketplace or upgrade NFTs
+
+---
+
 ## 📦 Installation
 ```bash
 git clone https://github.com/arawrdn/fofs-nft-avatar-profile.git
