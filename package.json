@@ -1,0 +1,21 @@
+```json
+{
+  "name": "fofs-nft-avatar-profile",
+  "version": "1.0.0",
+  "description": "FOFs NFT Avatar Profile DApp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@reown/appkit": "^1.7.1",
+    "@reown/appkit-adapter-wagmi": "^1.7.1",
+    "@walletconnect/core": "^2.20.2",
+    "@walletconnect/jsonrpc-ws-connection": "^1.0.16",
+    "@walletconnect/keyvaluestorage": "^1.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "ethers": "^6.8.0"
+  }
+}
